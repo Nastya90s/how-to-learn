@@ -4,4 +4,4 @@ How-to-learn
 
 Для возможности детального ознакомления или работы с этим проектом нужно клонировать его через git себе на компьютер или скачать его с репозитория.
 
-https://nastya90s.github.io/how-to-learn /
+https://nastya90s.github.io/how-to-learn/
