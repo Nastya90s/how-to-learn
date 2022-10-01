@@ -1,0 +1,6 @@
+.table_theme_dark {
+    z-index: 1;
+    flex-direction: row;
+    display: flex;
+    margin-bottom: 90px;
+  }
